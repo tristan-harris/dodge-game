@@ -51,4 +51,4 @@ $(BINDIR) $(OBJDIR):
 -include $(DEPS)
 
 clean:
-	rm -rf $(OBJDIR_BASE) $(BUILDDIR_BASE)
+	rm -rf $(OBJDIR_BASE) $(BINDIR_BASE)
